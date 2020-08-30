@@ -1,1 +1,1 @@
-[![EcrosoftXiao's github stats](https://github-readme-stats.vercel.app/api?username=EcrosoftXiao)](https://github.com/anuraghazra/github-readme-stats)
+![Evasi0nXiao's github stats](https://github-readme-stats.vercel.app/api?username=Ecrosoftxiao&show_icons=true&theme=dracula&count_private=true)
